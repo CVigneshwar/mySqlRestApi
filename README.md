@@ -1,5 +1,7 @@
 # mySqlRestApi
 
+	Node + express js application to expose mySql tables as rest Api
+
 1) Add new js file for your database table under router folder
 
 Example: routes/shop.js
